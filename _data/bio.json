@@ -1,102 +1,117 @@
 {
-	"basics": {
-		"name": "Zachary Brown",
-		"label": "Student",
-		"picture": "https://github.com/Zbrown2360.png",
-		"email": "zachary.william.brown3@gmail.com",
-		"phone": "270-945-0739",
-		"website": "https://Zbrown2360.github.io",
-		"summary": "I am studying for an Associates Degree in Information Technology at Sullivan University. I expect to graduate in Spring, 2023.",
-		"location": {
-			"address": "",
-			"postalCode": "40202",
-			"city": "Louisville",
-			"countryCode": "USA",
-			"region": "Kentucky"
-		},
-		"profiles": [{
-				"network": "github",
-				"username": "Zbrown2360",
-				"url": "http://github.com/Zbrown2360"
-			},
-			{
-				"network": "linkedin",
-				"username": "Zachary Brown",
-				"url": "http://linkedin.com/in/zachary-brown-45829b1a4/"
-			},
-
-		]
-	},
-	"interests": [{
-			"name": "3D Modeling"
-		},
-		{
-			"name": "Hardware/Software"
-		},
-		{
-			"name": "Integration"
-		},
-
-	],
-	"skills": [{
-			"name": "Languages and Frameworks",
-			"keywords": ["C", "C++", "Java", "Javascript"]
-		},
-		{
-			"name": "Toolsets/OS",
-			"keywords": ["WindowsOS", "Ubuntu", "Git/GitHub"]
-		}
-	],
-	"education": [{
-		"institution": "Sullivan University, Louisville, Ky",
-		"area": "Computer Science (expected Spring, 2023)",
-		"studyType": "A.S.",
-		"startDate": "2021-03",
-		"endDate": "Present",
-		"courses": []
-	}],
-	"work": [{
-			"company": "Wood Mackenzie",
-			"position": "Engineer",
-			"website": "",
-			"startDate": "2022-02-16",
-			"endDate": "Present",
-			"summary": "Research and Development/Integration",
-			"highlights": [
-				"Research and Develope new monitoring technologies",
-			]
-		},
-		{
-			"company": "Shape Manufacturing",
-			"position": "Estimator",
-			"website": "",
-			"startDate": "2020-09-18",
-			"endDate": "2022-02-15",
-			"summary": "",
-			"highlights": [
-				"Estimate project and design costs.",
-
-			]
-		}
-	],
-	"volunteer": [{
-
-
-		},
-	{]
-	}
-],
-"awards": [{
-		"title": "Dean's List",
-		"date": "2021-Present",
-		"awarder": "Sullivan University",
-		"summary": "I have been awarded the Dean's list achievement every quarter during my schooling."
-	},
-	{
-
-	}
-],
-"references": [{
-	"name": "Available upon request"
-}]
+  "basics": {
+    "name": "Zachary Brown",
+    "label": "Student",
+    "picture": "https://github.com/Zbrown2360.png",
+    "email": "zachary.william.brown3@gmail.com",
+    "phone": "",
+    "website": "https://Zbrown2360.github.io",
+    "summary": "I am studying for an A.S. in information technology at Sullivan University. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "40202", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
+    "profiles": [
+      { "network": "github", "username": "Zbrown2360", "url": "http://github.com/Zbrown2360" },
+      { "network": "linkedin", "username": "Zachary Brown", "url": "http://linkedin.com/in/zachary-brown-45829b1a4/" },
+      
+    ]
+  },
+  "interests": [
+    { "name": "Research and Development" },
+    { "name": "Implementation" },
+    { "name": "Networking" },
+    { "name": "Hardware/Software" },
+    { "name": "3D Modeling" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "WindowsOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sullivan University, Louisville, Ky",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "A.S.",
+      "startDate": "2021-03-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "Wood Mackenzie",
+      "position": "Research and Development Engineer",
+      "website": "",
+      "startDate": "2022-02-16",
+      "endDate": "Present",
+      "summary": "Research and Develop new monitoring systems.",
+      "highlights": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Shape Manufacturing",
+      "website": "",
+      "position": "Estimator",
+      "startDate": "2021-03-01",
+      "endDate": "2022-02-15",
+      "summary": "Estimate cost and material for projects.",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "Rame Contracting",
+      "website": "",
+      "position": "Explosives Engineer",
+      "startDate": "2016",
+      "endDate": "2021",
+      "summary": "Superintendent in charge of blasting and demolition",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "Sullivan University",
+      "summary": "I have been awarded the Dean's List achievement every quarter at Sullivan University"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
 }
