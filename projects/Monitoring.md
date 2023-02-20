@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/energy.jpg
 title: ""
 date: 2022
 published: true
