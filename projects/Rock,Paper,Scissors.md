@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/1200px-Rock-paper-scissors.svg
+image: img/1200px-Rock-paper-scissors.png
 title: "Game"
 date: 2022
 published: true
