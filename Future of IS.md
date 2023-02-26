@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "The Future of Information Security"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2022-02-06
 published: true
 labels:
   - Engineering
